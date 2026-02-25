@@ -8,6 +8,7 @@ enum CivilianType {
     City,
     Farm,
     Industry,
+    IndustryAdvace,
     def
 };
 
